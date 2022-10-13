@@ -75,6 +75,9 @@ public class Actividad3_Boletín2 {
 				
 				//Cortamos la cadena
 				break;
+				
+				//Por defecto, si la opción marcada por el usuario no es ninguna de las que se le entrega, le mostraremos el siguiente mensaje
+				default: System.out.println("La opción marcada no es correcta");
 		}
 		
 		
